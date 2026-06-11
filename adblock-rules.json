@@ -19,6 +19,7 @@
     "twitch.tv##.common-ad-layout",
     "twitch.tv##.c-ad-wrapper",
     "twitch.tv##[class*='DisplayAd']",
-    "twitch.tv##[class*='AdBanner']"
+    "twitch.tv##[class*='AdBanner']",
+    "twitch.tv##.InjectLayout-sc-1i43xsx-0.cWfioq"
   ]
 }
