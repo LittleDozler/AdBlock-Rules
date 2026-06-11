@@ -1,0 +1,15 @@
+{
+  "domainsToBlock": [
+    "*://*.doubleclick.net/*",
+    "*://*.googleadservices.com/*",
+    "*://*.googlesyndication.com/*"
+  ],
+  "elementsToHide": [
+    "youtube.com##.ytp-ad-player-overlay",
+    "youtube.com##.ytp-ad-image-overlay",
+    "youtube.com##.video-ads",
+    "cnn.com##.sidebar-ad-wrapper",
+    "generic##.ad-slot",
+    "generic##.adsbygoogle"
+  ]
+}
