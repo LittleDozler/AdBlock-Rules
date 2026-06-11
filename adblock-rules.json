@@ -10,6 +10,10 @@
     "youtube.com##.video-ads",
     "cnn.com##.sidebar-ad-wrapper",
     "generic##.ad-slot",
-    "generic##.adsbygoogle"
+    "generic##.adsbygoogle",
+    "twitch.tv##.tw-mg-b-2.tw-pd-1",
+    "twitch.tv##[data-a-target='video-ad-countdown']",
+    "twitch.tv##.video-player__overlay-layout",
+    "twitch.tv##[id^='dfp-slot-']"
   ]
 }
