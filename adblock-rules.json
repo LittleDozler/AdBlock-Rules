@@ -4,7 +4,7 @@
     "*://*.googleadservices.com/*",
     "*://*.googlesyndication.com/*"
   ],
-  "elementsToHide": [
+"elementsToHide": [
     "youtube.com##.ytp-ad-player-overlay",
     "youtube.com##.ytp-ad-image-overlay",
     "youtube.com##.video-ads",
@@ -14,6 +14,11 @@
     "twitch.tv##.tw-mg-b-2.tw-pd-1",
     "twitch.tv##[data-a-target='video-ad-countdown']",
     "twitch.tv##.video-player__overlay-layout",
-    "twitch.tv##[id^='dfp-slot-']"
+    "twitch.tv##[id^='dfp-slot-']",
+    "twitch.tv##.side-nav-ad",
+    "twitch.tv##.common-ad-layout",
+    "twitch.tv##.c-ad-wrapper",
+    "twitch.tv##[class*='DisplayAd']",
+    "twitch.tv##[class*='AdBanner']"
   ]
 }
